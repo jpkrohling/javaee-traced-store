@@ -1,0 +1,3 @@
+= JavaEE Traced Store
+
+This is a simple demo project for link:http://microprofile.io/[MicroProfile OpenTracing] integration on link:http://wildfly.org[WildFly 14] and newer. For more information on how to get this working, follow the link:https://medium.com/p/176366927212[blog post] it's written for.
